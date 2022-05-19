@@ -26,5 +26,12 @@ public class Main {
         Olso.size="694254km";
         Olso.color="pink";
 
+
+        //adding features for planet1
+        Planet1Features GulK = new Planet1Features();
+        GulK.color="blue";
+        GulK.size="56789km";
+        GulK.name="preacheX";
+
     }
 }
